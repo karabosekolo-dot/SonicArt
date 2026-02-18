@@ -1,0 +1,7 @@
+{
+  "name": "SonicArt & Music Marketplace",
+  "description": "A premium marketplace for selling music, featuring a Creative Suite powered by Gemini for AI-driven image editing and deep visual analysis of album artwork.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
